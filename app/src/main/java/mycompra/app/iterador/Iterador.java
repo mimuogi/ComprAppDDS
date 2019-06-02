@@ -17,5 +17,7 @@ public interface Iterador<T> {
 
     void avanza();
 
+    int size();
+
 
 }
